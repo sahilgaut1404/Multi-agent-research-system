@@ -338,7 +338,7 @@ with col_input:
     st.markdown('<div class="input-card">', unsafe_allow_html=True)
     topic = st.text_input(
         "Research Topic",
-        placeholder="e.g. Quantum computing breakthroughs in 2025",
+        placeholder="e.g. Quantum computing breakthroughs in 2026",
         key="topic_input",
         label_visibility="visible",
     )
